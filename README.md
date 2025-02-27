@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TamerIssaUbaid
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning Linux/Python
-- 💞️ I’m looking to collaborate on security
+- 👀 I’m interested in cybersecurity and development
+- 🌱 I’m currently learning Linux/Python/java
+- 💞️ I’m looking to collaborate on security and software development
 - 📫 How to reach me: uubtamer@gmail.com
 - 😄 Pronouns: he/him
 
