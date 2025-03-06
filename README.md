@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TamerIssaUbaid
 - 👀 I’m interested in cybersecurity and development
-- 🌱 I’m currently learning Linux/Python/java/sql
+- 🌱 I’m currently learning Linux/Python/sql
 - 💞️ I’m looking to collaborate on security and software development
 - 📫 How to reach me: uubtamer@gmail.com | www.linkedin.com/in/támer
 - 😄 Pronouns: he/him
