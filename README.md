@@ -1,11 +1,38 @@
-- 👋 Hi, I’m @TamerIssaUbaid
-- 👀 I’m interested in cybersecurity and development
-- 🌱 I’m currently learning Linux/Python/sql
-- 💞️ I’m looking to collaborate on security and software development
-- 📫 How to reach me: uubtamer@gmail.com | www.linkedin.com/in/támer
-- 😄 Pronouns: he/him
+# Támer 
+# 👋 Olá! Eu sou Támer Issa Ubaid
 
-<!---
-TamerIssaUbaid/TamerIssaUbaid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Estudante de Engenharia de Software | 🔒 Apaixonado por Segurança da Informação & Infraestrutura | 📌 Explorando Desenvolvimento de Software e DevOps  
+
+## 🚀 Sobre mim  
+Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e programação, além de explorar outras tecnologias e ferramentas. 
+
+📍 **Áreas de Interesse:**   
+- 🔹 Infraestrutura de TI (Linux, redes, segurança)  
+- 🔹 DevOps (CI/CD, Docker, Kubernetes)  
+- 🔹 Desenvolvimento de Software  
+- 🔹 Análise de Vulnerabilidades e Pentest  
+
+## 🛠️ Tecnologias & Ferramentas  
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+## 📊 Estatísticas  
+
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamerIssaUbaid&show_icons=true&theme=tokyonight" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamerIssaUbaid&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+## 🌎 Onde me encontrar  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/támer/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/TamerIssaUbaid)
+[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:uubtamer@gmail.com)
+
+---
+
+🚀 Sempre aprendendo algo novo! Se quiser trocar uma ideia sobre tecnologia, fique à vontade para me chamar. 😃  
