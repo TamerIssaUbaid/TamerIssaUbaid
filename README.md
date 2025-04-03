@@ -1,37 +1,79 @@
-# Támer 
-# 👋 Olá! Eu sou Támer Issa Ubaid
-
-🎓 Estudante de Engenharia de Software | 🔒 Apaixonado por Segurança da Informação & Infraestrutura | 📌 Explorando Desenvolvimento de Software, DevOps e I.A
-
-## 🚀 Sobre mim  
-Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e programação, além de explorar outras tecnologias e ferramentas. 
-
-📍 **Áreas de Interesse:**   
-- 🔹 Infraestrutura de TI (Linux, redes, segurança)  
-- 🔹 Desenvolvimento de Software  
-- 🔹 Análise de Vulnerabilidades e Pentest  
-
-## 🛠️ Tecnologias & Ferramentas  
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
-## 📊 Estatísticas  
-
-<div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TamerIssaUbaid&show_icons=true&theme=tokyonight" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamerIssaUbaid&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-
-## 🌎 Onde me encontrar  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/támer/)
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)](https://github.com/TamerIssaUbaid)
-[![Email](https://img.shields.io/badge/Email-000?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:uubtamer@gmail.com)
-
----
-
-🚀 Sempre aprendendo algo novo! Se quiser trocar uma ideia sobre tecnologia, fique à vontade para me chamar. 😃  
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Támer Issa Ubaid</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #1e1e2e;
+            color: #ffffff;
+            text-align: center;
+            padding: 20px;
+        }
+        .container {
+            max-width: 800px;
+            margin: auto;
+            padding: 20px;
+            border-radius: 10px;
+            background-color: #282a36;
+            box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
+        }
+        h1 {
+            color: #50fa7b;
+        }
+        .tech-list {
+            list-style: none;
+            padding: 0;
+        }
+        .tech-list li {
+            display: inline;
+            margin: 10px;
+            font-size: 18px;
+        }
+        .links a {
+            color: #8be9fd;
+            text-decoration: none;
+            font-size: 18px;
+            margin: 10px;
+        }
+        .links a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>👋 Olá! Eu sou Támer Issa Ubaid</h1>
+        <p>🎓 Estudante de Engenharia de Software | 🔒 Apaixonado por Segurança da Informação & Infraestrutura</p>
+        <p>📌 Explorando Desenvolvimento de Software, DevOps e I.A</p>
+        
+        <h2>🚀 Sobre mim</h2>
+        <p>Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e programação, além de explorar outras tecnologias e ferramentas.</p>
+        
+        <h2>📍 Áreas de Interesse</h2>
+        <ul class="tech-list">
+            <li>🔹 Infraestrutura de TI (Linux, redes, segurança)</li>
+            <li>🔹 Desenvolvimento de Software</li>
+            <li>🔹 Análise de Vulnerabilidades e Pentest</li>
+        </ul>
+        
+        <h2>🛠️ Tecnologias & Ferramentas</h2>
+        <ul class="tech-list">
+            <li>🐧 Linux</li>
+            <li>📜 Shell Script</li>
+            <li>🐍 Python</li>
+            <li>🔗 Git</li>
+            <li>🗄️ SQL</li>
+        </ul>
+        
+        <h2>🌎 Onde me encontrar</h2>
+        <div class="links">
+            <a href="https://www.linkedin.com/in/tamerissaubaid" target="_blank">LinkedIn</a>
+            <a href="https://github.com/TamerIssaUbaid" target="_blank">GitHub</a>
+            <a href="mailto:seuemail@example.com">Email</a>
+        </div>
+    </div>
+</body>
+</html>
