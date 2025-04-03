@@ -15,11 +15,13 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 ---
 
 ### 🚀 Tecnologias & Ferramentas  
-![Linux](https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black)  
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
 
 ---
 
@@ -35,4 +37,5 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)  
 
 🚀 Sempre aprendendo algo novo! Se quiser trocar uma ideia sobre tecnologia, fique à vontade para me chamar. 😃
+
 
