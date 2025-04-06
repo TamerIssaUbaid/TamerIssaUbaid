@@ -36,6 +36,6 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TamerIssaUbaid)  
 [![Email](https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@example.com)  
 
-🚀 Sempre aprendendo algo novo! Se quiser trocar uma ideia sobre tecnologia, fique à vontade para me chamar. 😃
+🚀 Sempre aprendendo algo novo! Construindo soft e hard skills aos poucos!!
 
 
