@@ -15,13 +15,7 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 ---
 
 ### 🚀 Tecnologias & Ferramentas  
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white" />
-</p>
+<p align="center"> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white" /> </p>
 
 ---
 
@@ -38,4 +32,3 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 
 🚀 Sempre aprendendo algo novo! Construindo soft e hard skills aos poucos!!
 
-<p align="center"> <img src="https://img.shields.io/badge/Linux-%23FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Shell_Script-%23121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /> <img src="https://img.shields.io/badge/Python-%233776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-%23007ACC?style=for-the-badge&logo=sqlite&logoColor=white" /> </p>
