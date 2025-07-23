@@ -10,7 +10,7 @@ Sou um estudante de Engenharia de Software interessado em cibersegurança, infra
 📍 **Áreas de Interesse:**  
 - 🔹 Infraestrutura de TI *(Linux, redes, segurança)*  
 - 🔹 Desenvolvimento de Software  
-- 🔹 Análise de Vulnerabilidades e Pentest  
+- 🔹 DevOps/Cloud  
 
 ---
 
