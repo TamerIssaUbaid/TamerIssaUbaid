@@ -1,6 +1,6 @@
 ## 👋 Olá! Eu sou Támer Issa Ubaid  
-🎓 **Estudante de Engenharia de Software** | 🔒 **Apaixonado por Segurança da Informação & Infraestrutura**  
-🚀 **Explorando Desenvolvimento de Software, DevOps e I.A**  
+> **Aspirante a Analista de Segurança** | > **Estudante de Engenharia de Software**  
+> **Explorando o universo da Cibersegurança, Infraestrutura e DevOps.**  
 
 ---
 
