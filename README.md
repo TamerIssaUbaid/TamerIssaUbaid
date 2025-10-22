@@ -1,11 +1,15 @@
-## 👋 Olá! Eu sou Támer Issa Ubaid  
+# 🧠 Tâmer Issa Ubaid
 > **Aspirante a Analista de Segurança** | > **Estudante de Engenharia de Software**  
 > **Explorando o universo da Cibersegurança, Infraestrutura e DevOps.**  
 
 ---
 
-### 🛠️ Sobre mim  
-Sou um estudante de Engenharia de Software interessado em cibersegurança, infraestrutura e desenvolvimento de software. Atualmente, estou focado em aprimorar minhas habilidades em Linux, redes e programação, além de explorar outras tecnologias e ferramentas.
+### 👋 Sobre mim
+Sou estudante de **Engenharia de Software** apaixonado por **Cibersegurança** e **Infraestrutura**.  
+Atualmente, atuo como **estagiário de suporte técnico**, onde tenho contato com atividades relacionadas à administração de sistemas e redes.  
+Meu foco é evoluir para as áreas de **Blue Team**, **Red Team** e **Segurança de Infraestrutura**, enquanto aprimoro meus conhecimentos em **Linux**, **redes** e **automação**.
+
+---
 
 📍 **Áreas de Interesse:**  
 - 🔹 Infraestrutura de TI *(Linux, redes, segurança)*  
