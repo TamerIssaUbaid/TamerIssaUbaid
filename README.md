@@ -1,5 +1,5 @@
 ## 🧠 Támer Issa Ubaid
-> **Aspirante a Analista de Segurança** | > **Estudante de Engenharia de Software**  
+> **Aspirante a Analista de Cibersegurança** | > **Estudante de Engenharia de Software**  
 > **Explorando o universo da Cibersegurança, Infraestrutura e DevOps.**  
 
 ---
