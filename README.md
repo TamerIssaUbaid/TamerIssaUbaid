@@ -6,7 +6,7 @@
 
 ### 👋 Sobre mim
 Sou estudante de **Engenharia de Software** apaixonado por **Cibersegurança** e **Infraestrutura**.  
-Atualmente, atuo como **estagiário de suporte técnico**, onde tenho contato com atividades relacionadas à administração de sistemas e redes.  
+Atuei como **estagiário de suporte técnico**, onde tive contato com atividades relacionadas à administração de sistemas e redes.  
 Meu foco é evoluir para as áreas de **Blue Team**, **Red Team** e **Segurança de Infraestrutura**, enquanto aprimoro meus conhecimentos em **Linux**, **redes** e **automação**.
 
 ---
