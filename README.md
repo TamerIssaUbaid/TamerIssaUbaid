@@ -5,9 +5,7 @@
 ---
 
 ### 👋 Sobre mim
-Sou estudante de **Engenharia de Software** apaixonado por **Cibersegurança** e **Infraestrutura**.  
-Atuei como **estagiário de suporte técnico**, onde tive contato com atividades relacionadas à administração de sistemas e redes.  
-Meu foco é evoluir para as áreas de **Blue Team**, **Red Team** e **Segurança de Infraestrutura**, enquanto aprimoro meus conhecimentos em **Linux**, **redes** e **automação**.
+**Estudante de Engenharia de Software apaixonado por Linux, automação e DevOps. Construindo experiência em Docker, Kubernetes, Shell Script e cloud.**
 
 ---
 
