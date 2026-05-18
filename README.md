@@ -4,7 +4,6 @@
 
 **Estudante de Engenharia de Software | Apaixonado por Linux, DevOps & Cloud**
 
-*Construindo infraestrutura, automatizando processos e explorando o universo Cloud Native.*
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/támer/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/TamerIssaUbaid)
