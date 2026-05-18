@@ -15,7 +15,7 @@
 
 ## 👋 Sobre mim
 
-Sou estudante de **Engenharia de Software** na Universidade São Judas Tadeu, com experiência prática em suporte técnico corporativo, administração de sistemas Windows e automação com Python e Shell Script.
+Sou estudante de **Engenharia de Software**, com experiência prática em suporte técnico corporativo, administração de sistemas Windows e automação com Python e Shell Script.
 
 Minha paixão é **Linux** — e foi por ele que cheguei ao mundo de **DevOps e Cloud Computing**. Estou construindo minha stack de forma consistente, com foco em containers, orquestração, infraestrutura como código e cloud.
 
