@@ -10,9 +10,9 @@
 ---
 
 📍 **Áreas de Interesse:**  
-- 🔹 Infraestrutura de TI *(Linux, redes, segurança)*  
-- 🔹 Desenvolvimento de Software  
-- 🔹 DevOps/Cloud  
+- 🔹 DevOps/Cloud    
+- 🔹 Infraestrutura de TI  
+- 🔹 Automação e scripting 
 
 ---
 
