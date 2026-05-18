@@ -82,12 +82,15 @@ Scanner de portas TCP/UDP desenvolvido em Python puro, com banner grabbing, fing
 
 ## 📊 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TamerIssaUbaid&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TamerIssaUbaid&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+</div>
 
-![Tamer's GitHub Stats](https://github-readme-stats.vercel.app/api?username=TamerIssaUbaid&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamerIssaUbaid&layout=compact&theme=tokyonight&hide_border=true)
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=TamerIssaUbaid&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
