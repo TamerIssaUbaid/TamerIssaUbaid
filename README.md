@@ -2,7 +2,7 @@
 
 # Támer Issa Ubaid
 
-**Estudante de Engenharia de Software | Apaixonado por Linux, DevOps & Cloud**
+**Estudante de Engenharia de Software | Focado em Segurança da Informação**
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/támer/)
@@ -17,7 +17,7 @@
 
 Sou estudante de **Engenharia de Software**, com experiência prática em suporte técnico corporativo, administração de sistemas Windows e automação com Python e Shell Script.
 
-Minha paixão é **Linux** — e foi por ele que cheguei ao mundo de **DevOps e Cloud Computing**. Estou construindo minha stack de forma consistente, com foco em containers, orquestração, infraestrutura como código e cloud.
+Minha paixão é **Linux** — e foi por ele que cheguei ao mundo de **DevOps e Segurança da Informação**. Estou construindo minha stack de forma consistente, com foco em containers, orquestração, infraestrutura como código e cloud.
 
 ```bash
 $ whoami
