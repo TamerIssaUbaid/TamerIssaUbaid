@@ -17,7 +17,7 @@
 
 Sou estudante de **Engenharia de Software**, com experiência prática em suporte técnico corporativo, administração de sistemas Windows e automação com Python e Shell Script.
 
-Minha paixão é **Linux** — e foi por ele que cheguei ao mundo de **DevOps e Segurança da Informação**. Estou construindo minha stack de forma consistente, com foco em containers, orquestração, infraestrutura como código e cloud.
+Minha paixão é **Linux** — e foi por ele que cheguei ao mundo de **DevOps e Cloud**. Estou construindo minha stack de forma consistente, com foco em containers, orquestração, infraestrutura como código e cloud.
 
 ```bash
 $ whoami
